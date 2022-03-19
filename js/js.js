@@ -7,6 +7,7 @@ function start() { // Inicio da função start()
     $("#fundoGame").append("<div id='inimigo2'></div>");
     $("#fundoGame").append("<div id='amigo'class='anima3'></div>");
     $("#fundoGame").append("<div id='placar'></div>");
+    $("#fundoGame").append("<div id='energia'></div>");
 
     //Principais variáveis do jogo
     var fimdejogo = false;
